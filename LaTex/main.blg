@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: sn-aps.bst
+Database file #1: ref.bib
+Warning--empty journal in Aur2017Hands
+You've used 18 entries,
+            2988 wiz_defined-function locations,
+            738 strings with 7340 characters,
+and the built_in function-call counts, 5367 in all, are:
+= -- 314
+> -- 150
+< -- 0
++ -- 62
+- -- 44
+* -- 255
+:= -- 647
+add.period$ -- 14
+call.type$ -- 18
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 632
+empty$ -- 649
+format.name$ -- 56
+if$ -- 1208
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 154
+newline$ -- 75
+num.names$ -- 18
+pop$ -- 328
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 102
+stack$ -- 0
+substring$ -- 69
+swap$ -- 314
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 22
+width$ -- 20
+write$ -- 162
+(There was 1 warning)

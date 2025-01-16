@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\bibcommenthead
+
+\bibitem{1952Portfolio}
+H.M. Markowitz, Portfolio selection.
+\newblock The Journal of Finance \textbf{7}(1), 77 (1952)
+
+\bibitem{2009Investment}
+D.~Luenberger, Investment science: International edition.
+\newblock Oup Catalogue  (2009)
+
+\bibitem{2019Application}
+X.~Chao, X.~Tao, L.~Zeng, in \emph{International Symposium on Management and
+  Social Sciences} (2019)
+
+\bibitem{lee2024comparison}
+Z.C. Lee, W.Y. Tan, H.K. Koo, W.~Pang.
+\newblock Comparison of markowitz model and single-index model on portfolio
+  selection of malaysian stocks (2024)
+
+\bibitem{2016Application}
+Q.~Mingyue, L.~Cheng, S.~Yu, in \emph{2016 10th International Conference on
+  Complex, Intelligent, and Software Intensive Systems (CISIS)} (2016)
+
+\bibitem{2022Robust}
+J.~Sen, S.~Mondal, G.~Nath, Robust portfolio design and stock price prediction
+  using an optimized lstm model.
+\newblock Papers  (2022)
+
+\bibitem{2005A}
+P.T.D. Boer, D.P. Kroese, S.~Mannor, R.Y. Rubinstein, A tutorial on the
+  cross-entropy method.
+\newblock Annals of Operations Research \textbf{134}(1), 19--67 (2005)
+
+\bibitem{2010Rectified}
+V.~Nair, G.E. Hinton, in \emph{International Conference on International
+  Conference on Machine Learning} (2010)
+
+\bibitem{2014Adam}
+D.~Kingma, J.~Ba, Adam: A method for stochastic optimization.
+\newblock Computer Science  (2014)
+
+\bibitem{1997Long}
+S.~Hochreiter, J.~Schmidhuber, Long short-term memory.
+\newblock Neural Computation \textbf{9}(8), 1735--1780 (1997)
+
+\bibitem{1988Game}
+B.T.M. Cover, Game-theoretic optimal portfolios.
+\newblock Management Science \textbf{34}(6), 724--733 (1988)
+
+\bibitem{buhler2023efficient}
+C.K. Buhler, H.Y. Benson.
+\newblock Efficient solution of portfolio optimization problems via dimension
+  reduction and sparsification (2023)
+
+\bibitem{fu2018machine}
+X.~Fu, J.~Du, Y.~Guo, M.~Liu, T.~Dong, X.~Duan.
+\newblock A machine learning framework for stock selection (2018)
+
+\bibitem{2020Portfolio}
+D.A. Tadesse, Portfolio optimization-based stock prediction using long-short
+  term memory network in quantitative trading.
+\newblock Applied Sciences \textbf{10} (2020)
+
+\bibitem{2018Deep}
+C.~Fischer, Thomas~Krauss, Deep learning with long short-term memory networks
+  for financial market predictions.
+\newblock European Journal of Operational Research \textbf{270}(2) (2018)
+
+\bibitem{smith2018dont}
+S.L. Smith, P.J. Kindermans, C.~Ying, Q.V. Le.
+\newblock Don't decay the learning rate, increase the batch size (2018)
+
+\bibitem{2009L2}
+C.~Cortes, M.~Mohri, A.~Rostamizadeh, L2 regularization for learning kernels.
+\newblock AUAI Press  (2009)
+
+\bibitem{Aur2017Hands}
+A.~Géron, Hands-on machine learning with scikit-learn and tensorflow:
+  Concepts, tools, and techniques to build intelligent systems  (2017)
+
+\end{thebibliography}

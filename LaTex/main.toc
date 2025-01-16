@@ -1,0 +1,27 @@
+\contentsline {subparagraph}{Acknowledgments}{3}{section*.4}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Literature Review}{3}{section.2}%
+\contentsline {section}{\numberline {3}Mean-variance Model}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Assumptions}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Model Construction}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Returns}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Variance}{6}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Mean-variance Model and Efficient frontiers}{6}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Data and Methodology}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Data Collection}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Data Processing}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Dataset Collation}{7}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Predictive Machine Learning Model}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Training and Test Set}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Long Short-term Memory Neural Network}{10}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Result and Application}{11}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Model Analysis}{11}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Statistic Analysis}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Model Application}{14}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Discussion}{16}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{17}{section.8}%
+\contentsline {section}{\numberline {A}Notations}{18}{appendix.a.A}%
+\contentsline {section}{\numberline {B}Activation and Loss Functions}{19}{appendix.a.B}%
+\contentsline {section}{\numberline {C}Code}{20}{appendix.a.C}%
+\contentsline {subsection}{\numberline {C.1}Code block 1}{20}{subsection.a.C.1}%
+\contentsline {subsection}{\numberline {C.2}Code block 2}{22}{subsection.a.C.2}%
