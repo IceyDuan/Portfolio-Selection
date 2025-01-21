@@ -1,9 +1,9 @@
 ## Portfolio-Selection
 Application of LSTM Neural Network in Optimizing-then-Predicting Winning and Losing Stocks
 ## Introduction
-This is a fundamental project about Machine Learning and Qualitative Analysis. 
+This is a fundamental project about Machine Learning and Qualitative Analysis by Python.
 
-The detailed process is in the paper uploaded in the folder of LaTex.
+The detailed process is in the paper uploaded in the folder of LaTex, you also could see the LaTex files and figures.
 ## Markowitz Model Construction
 This part calls the raw dataset online and use markowitz mean-variance model to get the processed dataset for machine learning.
 ## LSTM machine learning
